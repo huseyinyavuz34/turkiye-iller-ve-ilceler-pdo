@@ -11,7 +11,7 @@
             <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
             <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
-    	 	<title>Güncel Türkçe Ülkeler Listesi - Hüseyin YAVUZ</title>
+    	 	<title>Güncel Türkiye İller ve İlçeler - Hüseyin YAVUZ</title>
     	 </head>
     	 <body>
 
@@ -38,7 +38,8 @@
             </select>
             <br>
                 <div id="sonuc"></div>
-
+                    <br>
+                    <b>Son Güncelleme:</b> 20 Kasım 2022 16:58
 
     	       <script type="text/javascript">
                  document.getElementById("ilce").disabled = true;
